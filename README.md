@@ -2,7 +2,9 @@
 ## Hi there 👋
 Meu nome é Sidney e sou um programador Front-end apaixonado por criar interfaces incríveis e funcionais. Com experiência em HTML e CSS, estou no início da minha jornada no JavaScript e React, buscando sempre melhorar minhas habilidades e aprender novas tecnologias.
 Neste perfil, você encontrará projetos que estão focados em desenvolvimento Front-end, onde estou aplicando o que aprendi até agora, além de explorar novas ferramentas e bibliotecas que estão transformando o mundo do desenvolvimento web.
+
 🔧 Minhas principais habilidades:
+
 <img src="https://img.shields.io/badge/HTML-239120?logo=html5&logoColor=white&style=for-the-badge" alt="html-logo"/> Construção de páginas web estruturadas e semânticas.
 <br>
 <br>
